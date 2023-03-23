@@ -1,5 +1,1 @@
 # webprogramming
-
-Collaborators:
-
-Berina Crncalo
