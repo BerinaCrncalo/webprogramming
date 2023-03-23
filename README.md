@@ -1,5 +1,5 @@
 # webprogramming
 
-collaborators:
+Collaborators:
 
 Berina Crncalo
